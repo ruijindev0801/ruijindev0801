@@ -19,7 +19,6 @@ Creative Software Engineer | AI/ML Engineer | Full-Stack Developer | Prompt Engi
 ```ts
 const rui = {
   name: "Rui Jin",
-  gender: "Male"
   role: "Creative Software Engineer",
   location: "Hong Kong",
   focus: ["AI / ML", "Web Development", "Automation", "Prompt Engineering"],
