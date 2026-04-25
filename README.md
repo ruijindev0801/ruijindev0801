@@ -49,9 +49,17 @@ My work spans full-stack applications, automation systems, AI integrations, and 
 
 <br /><br />
 
-<a href="https://github.com/ruijindev0801">
+<!-- <a href="https://github.com/ruijindev0801">
   <img src="https://streak-stats.demolab.com?user=ruijindev0801&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
+</a> -->
+
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruijindev0801&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruijindev0801&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruijindev0801&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruijindev0801&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruijindev0801&theme=nord_bright&utcOffset=8)
 
 <br /><br />
 
