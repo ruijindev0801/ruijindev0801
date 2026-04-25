@@ -35,8 +35,18 @@ My work spans full-stack applications, automation systems, AI integrations, and 
 - Building experience in LLM systems, agent workflows, and cloud architecture
 - Focused on clean implementation, performance optimization, and maintainable systems
 - Open to freelance opportunities, collaborations, and product-focused engineering work
-
+  
 ---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ruijindev0801/assets/blob/main/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ruijindev0801/assets/blob/main/github-contribution-grid-snake-light.svg" />
+  <img alt="github-snake" src="https://github.com/ruijindev0801/assets/blob/main/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ## Skills Overview
 
