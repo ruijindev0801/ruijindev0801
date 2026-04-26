@@ -40,7 +40,6 @@ My work spans full-stack applications, automation systems, AI integrations, and 
 
 ## GitHub Stats
 
-<div align="center">
 
 <!-- <a href="https://github.com/ruijindev0801">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ruijindev0801&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
