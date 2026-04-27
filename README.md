@@ -188,18 +188,6 @@ City University of Hong Kong | 2016 - 2020
 
 ---
 
-## Certifications
-
-| Certification | Issuer | Date |
-| :--- | :--- | :---: |
-| [AI Engineer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-ai-engineer) | IBM | Mar 2024 |
-| [Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/) | CNCF | Jan 2024 |
-| [Google Cloud Professional Data Engineer](https://www.credly.com/badges/google-cloud-professional-data-engineer) | Google Cloud | Sep 2023 |
-| [AWS Certified Developer](https://www.credly.com/badges/aws-certified-developer-associate) | Amazon Web Services | Jun 2023 |
-| [Meta Front-End Developer](https://www.coursera.org/professional-certificates/meta-front-end-developer) | Meta | Dec 2022 |
-
----
-
 ## Selected Projects
 
 ### [Object Detection System](https://github.com/ruijindev0801/Shark_Detection)
