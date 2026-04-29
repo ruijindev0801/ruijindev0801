@@ -40,17 +40,28 @@ My work spans full-stack applications, automation systems, AI integrations, and 
 
 ## GitHub Stats
 
+<!-- <div align="center">
 
-<!-- <a href="https://github.com/ruijindev0801">
+<a href="https://github.com/ruijindev0801">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ruijindev0801&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruijindev0801&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a> -->
+</a>
 
 <br /><br />
 
-<!-- <a href="https://github.com/ruijindev0801">
-  <img src="https://streak-stats.demolab.com?user=ruijindev0801&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a> -->
+<a href="https://github.com/ruijindev0801">
+  <img src="https://streak-stats.demolab.com?user=devstar9981&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
+
+<br /><br />
+
+<a href="https://github.com/ruijindev0801">
+  <img src="https://github-profile-trophy.vercel.app/?username=devstar9981&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</a>
+
+</div> -->
+
+---
 
 <div align="center">
   
