@@ -8,7 +8,7 @@ Creative Software Engineer | AI/ML Engineer | Full-Stack Developer | Prompt Engi
 [![GitHub followers](https://img.shields.io/github/followers/ruijindev0801?label=Follow&style=flat-square&color=38bdf8)](https://github.com/ruijindev0801)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruijin9981)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ruijin9981)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ruijin.ai.dev@outlook.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ruijin.dev0801@gmail.com)
 
 </div>
 
@@ -266,7 +266,7 @@ Real-time GitHub data scraper with interactive dashboards for analysis and repor
 
 I am always open to discussing new projects, freelance opportunities, and collaborations.
 
-- Email: [ruijin.ai.dev@outlook.com](mailto:ruijin.ai.dev@outlook.com)
+- Email: [ruijin.ai.dev@outlook.com](mailto:ruijin.dev0801@gmail.com)
 - LinkedIn: [linkedin.com/in/ruijin9981](https://linkedin.com/in/ruijin9981)
 - GitHub: [github.com/ruijindev0801](https://github.com/ruijindev0801)
 - Twitter: [twitter.com/ruijin9981](https://twitter.com/ruijin9981)
