@@ -10,6 +10,9 @@ Creative Software Engineer | AI/ML Engineer | Full-Stack Developer | Prompt Engi
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ruijin9981)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ruijin.dev0801@gmail.com)
 
+<img width="1492" height="1054" alt="certificated" src="https://github.com/user-attachments/assets/7fd61629-16a1-4dab-8b8b-08942077441e" />
+
+
 </div>
 
 ---
