@@ -273,7 +273,6 @@ I am always open to discussing new projects, freelance opportunities, and collab
 - LinkedIn: [linkedin.com/in/ruijin9981](https://linkedin.com/in/ruijin9981)
 - GitHub: [github.com/ruijindev0801](https://github.com/ruijindev0801)
 - Twitter: [twitter.com/ruijin9981](https://twitter.com/ruijin9981)
-- Location: Hong Kong
 - Availability: Monday to Friday, 9AM - 6PM (CST)
 - Response time: Within 24 hours
 
