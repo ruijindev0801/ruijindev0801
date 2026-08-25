@@ -7,9 +7,10 @@ Creative Software Engineer | AI/ML Engineer | Full-Stack Developer | Prompt Engi
 [![Profile Views](https://komarev.com/ghpvc/?username=ruijindev0801&label=Profile%20Views&color=38bdf8&style=flat-square)](https://github.com/ruijindev0801)
 [![GitHub followers](https://img.shields.io/github/followers/ruijindev0801?label=Follow&style=flat-square&color=38bdf8)](https://github.com/ruijindev0801)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruijin9981/)
+<!--
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ruijin9981)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ruijin.dev0801@gmail.com)
-
+-->
 <img width="1492" height="1054" alt="certificated" src="https://github.com/user-attachments/assets/7fd61629-16a1-4dab-8b8b-08942077441e" />
 
 
