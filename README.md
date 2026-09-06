@@ -273,7 +273,7 @@ Real-time GitHub data scraper with interactive dashboards for analysis and repor
 I am always open to discussing new projects, freelance opportunities, and collaborations.
 
 - Email: [ruijin.ai.dev@outlook.com](mailto:ruijin.dev0801@gmail.com)
-- LinkedIn: [linkedin.com/in/ruijin9981](https://www.linkedin.com/in/rui-jin-319400434/)
+- LinkedIn:[linkedin.com/in/rui-jin-319400434](https://www.linkedin.com/in/rui-jin-319400434/)
 - GitHub: [github.com/ruijindev0801](https://github.com/ruijindev0801)
 <!-- Twitter: [twitter.com/ruijin9981](https://twitter.com/ruijin9981) -->
 - Availability: Monday to Friday, 9AM - 6PM (CST)
